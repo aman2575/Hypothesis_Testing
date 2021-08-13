@@ -1,2 +1,2 @@
 # Hypothesis_Testing
-P Value, T test, Correlation Implementation with Python
+Chi-Square, P Value, T test, Correlation Implementation with Python
